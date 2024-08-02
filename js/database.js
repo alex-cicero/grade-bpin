@@ -83,7 +83,7 @@ window.courses = [
     { name: "Estágio Sup Especialidades", credits:8, code: "FFWU06", semester: 10},
     ],
     [
-    { name: "Algoritmos e Programação", credits: 5, code: "COS110", semester: 1, category: 1, workload: 90},
+    { name: "Prod. Leit. Textos em LP", credits: 2, code: "LEV113", semester: 1, category: 1, workload: 60},
     { name: "Int. a Eng. Comp. e Informação", credits: 2, code: "COS111", semester: 1, category: 1, workload: 30},
     { name: "Circuitos Lógicos", credits: 5, code: "EEL280", semester: 1, workload: 90},
     { name: "Cálculo I", credits: 6, code: "MAC118", semester: 1, workload: 90},
