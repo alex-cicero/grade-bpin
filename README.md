@@ -1,6 +1,6 @@
 # Courses Flowchart
 
-Use it live at: [https://gremio-eci.github.io/grade](https://alex-cicero.github.io/grade-bpin/)
+Use it live at: [https://alex-cicero.github.io/grade-bpin/](https://alex-cicero.github.io/grade-bpin/)
 
 Interactive flowchart to keep track of your progress throughout the courses you take in university.
 
