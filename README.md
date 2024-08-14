@@ -1,10 +1,10 @@
 # Courses Flowchart
 
-Use it live at: https://gremio-eci.github.io/grade
+Use it live at: [https://gremio-eci.github.io/grade](https://alex-cicero.github.io/grade-bpin/)
 
 Interactive flowchart to keep track of your progress throughout the courses you take in university.
 
-The example portrayed here is related to the Federal University of Rio de Janeiro's Computer Engineering undergrad.
+The example portrayed here is related to the Federal University of Rio de Janeiro's Bachelor's Degree at Arts: Portuguese-English.
 
 ## Usage
 
