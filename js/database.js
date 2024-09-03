@@ -108,7 +108,7 @@ window.courses = [
     /*22*/ { name: "Ling. Lit. Latim: Narrativa", credits: 4, code: "LEC266", semester: 4, requirements: [16], workload: 60},
     /*23*/ { name: "Linguística e suas Aplicações", credits: 2, code: "LEF244", semester: 4, requirements: [4], workload: 30},
     /*24*/ { name: "Teoria Literária III", credits: 4, code: "LEL230", semester: 4, workload: 60},
-    /*25*/ { name: "Fonologia da L. Inglesa", credits: 4, code: "LEG301", semester: 5, requirements: [14], category: 1, workload: 60},
+    /*25*/ { name: "Fonologia da L. Inglesa", credits: 4, code: "LEG301", semester: 5, requirements: [13,14], category: 1, workload: 60},
     /*26*/ { name: "Lógica Matemática", credits: 4, code: "LEG241", semester: 5, category: 1, workload: 60},
     /*27*/ { name: "Álg. Linear Computacional", credits: 4, code: "COC473", semester: 5, requirements: [7, 16], category: 1, workload: 60},
     /*28*/ { name: "Redes de Computadores I", credits: 4, code: "EEL878", semester: 5, category: 1, workload: 75},
