@@ -7,7 +7,7 @@ window.colors = ["#b1fca4", "#fac6ff", "#a8c9ff", "#ff6347", "#9400d3", "#19dfda
 
 
 window.courses = [
-    [
+   [
     { name: "Biologia Molecular", credits: 1, code: "BMH126", semester: 1},
     { name: "Embriologia", credits: 1, code: "BMH127", semester: 1},
     { name: "Bioquímica I", credits: 3, code: "BQM101", semester: 1},
@@ -68,19 +68,19 @@ window.courses = [
     { name: "Tecnologia Ind. Farm.", credits: 4, code: "FFM408", semester: 8, requirements: [10, 39]},
     { name: "Estág. Sup. Farm. Manip. Alopática", credits: 2, code: "FFMU07", semester: 8, corequirements: [42, 46]},
     { name: "Bromatologia em Saúde", credits: 3, code: "FFP402", semester: 8, requirements: [41]},
-    { name: "Atividades Acad. Livre. Esc.", credits: 2, semester: 6},
+    { name: "Atividades Acad. Livre. Esc.", credits: 2, semester: 8},
     { name: "Atividades Acad. Optativas", credits: 2, semester: 8},
-    { name: "Toxicologia Geral", credits: 3, code: "FFC314", semester: 7, requirements:[26, 28]},
-    { name: "Con. Bio. Micro. Quali. Pro. Farma.", credits: 4, code: "FFI402", semester: 7], requirements:[28, 32]},
-    { name: "Biofarmácia", credits: 2, code: "FFM405", semester:7, requirements: [46]},
-    { name: "Dermocosméticos", credits: 2, code: "FFM406", semester: 7, requirements: [39]},
-    { name: "Biotecnologia Farmacêutica", credits: 3, code: "FFM426", semester: 7, requirements: [32, 38]},
-    { name: "Estágio Sup. Farmácia Hosp.", credits: 2, code: "FFMU08", semester: 7, requirements: [42, 46, 53]},
-    { name: "TCC", credits: 0, code: "FFWK02", semester: 8, requirements: [21]},
-    { name: "Economia e Adm, Empr. Farm.", credits: 3, code: "IEEE326", semester: 8},
-    { name: "Atividades Acad. Livre. Esc.", credits: 3, semester: 8},
-    { name: "Atividades Acad. Optativas", credits: 6, semester: 8, step: 1},
-    { name: "Estágio Sup Especialidades", credits:8, code: "FFWU06", semester: 8},
+    { name: "Toxicologia Geral", credits: 3, code: "FFC314", semester: 9, requirements:[26, 28]},
+    { name: "Con. Bio. Micro. Quali. Pro. Farma.", credits: 4, code: "FFI402", semester: 9, requirements:[28, 32]},
+    { name: "Biofarmácia", credits: 2, code: "FFM405", semester: 9, requirements: [46]},
+    { name: "Dermocosméticos", credits: 2, code: "FFM406", semester: 9, requirements: [39]},
+    { name: "Biotecnologia Farmacêutica", credits: 3, code: "FFM426", semester: 9, requirements: [32, 38]},
+    { name: "Estágio Sup. Farmácia Hosp.", credits: 2, code: "FFMU08", semester: 9, requirements: [42, 46, 53]},
+    { name: "TCC", credits: 0, code: "FFWK02", semester: 9, requirements: [21]},
+    { name: "Economia e Adm, Empr. Farm.", credits: 3, code: "IEEE326", semester: 9},
+    { name: "Atividades Acad. Livre. Esc.", credits: 3, semester: 9},
+    { name: "Atividades Acad. Optativas", credits: 6, semester: 9, step: 1},
+    { name: "Estágio Sup Especialidades", credits:8, code: "FFWU06", semester: 10},
     ],
     [
     /*0*/ { name: "Gramática Txt L. Inglesa", credits: 5, code: "LEG113", semester: 1, category: 1, workload: 90},  
